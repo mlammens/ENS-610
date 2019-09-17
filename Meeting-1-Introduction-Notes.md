@@ -1,4 +1,4 @@
-# Week 1 - Lecture Notes
+# Meeting 1 - Lecture Notes
 
 ## Learning objectives
 
@@ -56,7 +56,7 @@ Most of the processes are related to changes in the interactions of the componen
 * What kind of paper is this?
 * This paper is one product of the Sustainable Biosphere Initiative of the Ecological Society of America
 * SBI was an initiative to "define research priorities for ecology in the closing decade of the 20th century" (Lubchenco et al. 1991, *Ecology* 72(2) 371-412.
-* New initiatives from ESA have sprung from SBI, including the (Ecological Visions Project)[https://www.esa.org/ecovisions/ev_projects/about_project.php]
+* New initiatives from ESA have sprung from SBI, including the [Ecological Visions Project](https://www.esa.org/ecovisions/ev_projects/about_project.php)
 
 **Scholar slide** This article has been cited almost 10000 times. 
 
