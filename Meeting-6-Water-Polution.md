@@ -7,3 +7,5 @@
 * Diaz, R. J., & Rosenberg, R. (2008). Spreading Dead Zones and Consequences for Marine Ecosystems. Science, 321(5891), 926–929. 
 
 ## Reading Response Prompt
+
+Which concerns you more, water pollution by pesticides or water pollution by fertilizers? Justify your answer with references to our readings.
