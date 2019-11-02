@@ -2,6 +2,8 @@
 
 ## Readings
 
+* Enayati, A. A., Ranson, H., & Hemingway, J. (2005). Insect glutathione transferases and insecticide resistance. Insect Molecular Biology, 14(1), 3–8. https://doi.org/10.1111/j.1365-2583.2004.00529.x
+* Gressel, J. (2011). Low pesticide rates may hasten the evolution of resistance by increasing mutation frequencies. Pest Management Science, 67(3), 253–257. https://doi.org/10.1002/ps.2071
 
 
 
