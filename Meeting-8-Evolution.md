@@ -60,3 +60,5 @@ In discussing this paper, in the opening paragraph, it is probably good to discu
 Upon reading this paper again, my general impression is that the author does carry a pro-pesticide bias. (Though perhaps that is just my thinking with a pesticide skeptical bias.)
 
 ## Misc Notes - Possibly for Lecture
+
+See hand written notes from 2018.
