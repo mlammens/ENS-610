@@ -8,3 +8,12 @@
 
 ## Reading Notes
 
+### Ciais et al. pp 480 - 514
+
+Some of these notes are from other sections. I read the exec summary and skimmed section 6.1.
+
+* p. 475 - the nitrogen and carbon cycles are tightly coupled because of metabolic needs of organisms for both elements
+
+* p. 480 - understanding past rates of increases in GHGs shows that current rates are larger than the period in the past 22k years up to the industrial era.
+
+* General impressions - this document is information packed, and not exactly a page turner. But I think from the perspective of providing information dense readings, this one is spot on.
