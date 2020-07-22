@@ -10,3 +10,8 @@ This semester I must plan while accomidating COVID-19 issues. Here's what I'm th
 # To-do
 
 * Create survey for the students, in which I solicit case / topic ideas.
+
+
+# Possible Readings
+
+* Conservation Planning - Jepson, Recoverable Earth: a twenty-first century environmental narrative
