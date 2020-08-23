@@ -1,4 +1,4 @@
-DRAFT SYLLABUS: Combined Course: Environmental Science I and Environmental Science for Policy Makers
+Syllabus - Combined Course: Environmental Science I and Environmental Science for Policy Makers
 ====================================================================================
 
 **Course Number:** ENS 610; EP 603\
@@ -18,7 +18,7 @@ DRAFT SYLLABUS: Combined Course: Environmental Science I and Environmental Scien
 
 For the Fall of 2020, this course will be taught as **HyFlex**. 
 That means that students will have the opportunity to meet in-person or connect to class *synchronously* via Zoom. 
-Because of social distancing guidelines, our classroom can accomidate 8 students in person. 
+Because of social distancing guidelines, our classroom can accommodate 8 students in person. 
 We will work together to arrange a schedule that allows all students who wish for in-person instruction to have this experience.
 
 Course description
@@ -38,7 +38,7 @@ Class materials
 **Course readings:**
 
 During the semester, we will read peer reviewed articles, as well as sections of several IPCC reports (AR5 and other special reports).
-The readings will be shared via a shared [Zotero](https://www.zotero.org/) library.
+The readings will be shared via a shared [Zotero](https://www.zotero.org/) library and through our class page on Pace's Learning Management System (LMS) [Classes](https://classes.pace.edu)
 
 **Recommend reference book:**
 
@@ -111,9 +111,9 @@ Each class meeting will be 3 hours. The class will be case-based and will includ
 group work, with inclusion of lecture material from Prof.
 Aiello-Lammens to cover major concepts. Each week we will discuss the assigned
 readings, and connect the topics in these readings to key concepts in
-environmental science and peer-reviewed literature. During a typical
+environmental science and policy. During a typical
 class session, approximately 1/3 of the time will be dedicated to
-discussion, 1/3 to lecture, and 1/3 to group activities and synthesis.
+discussion of a case, 1/3 to lecture, and 1/3 to group work.
 
 Assignments and assessments
 ---------------------------
@@ -121,14 +121,20 @@ Assignments and assessments
 Rubrics will be provided for class assessments.
 
 -   Weekly reading comments - Perusall (10%)
--   Weekly reading response - (10%)
+-   Weekly reading response - (20%)
 -   Case / Discussion leader (10%)
 -   Research paper proposal (5%)
--   Research paper annotated bibliography (5%)
--   Draft research paper (5%)
--   Final research paper (15%)
--   Mid-term exam (20%)
--   Final exam (20%)
+-   Research paper annotated bibliography (10%)
+-   Draft research paper (10%)
+-   Peer-review of research paper (10%)
+-   Final research paper (25%)
+
+### Weekly reading comments - Perusall
+
+Each week, we will read 1-2 papers that are common to the whole class.
+These papers will be shared via a Zotero group library (we'll go over Zotero in Week 2) and via Perusall (linked from our Classes page).
+Using Perusall, you will make highlights and marginal comments on the papers as a class.
+I will look to see that you are participating in this process, but your grade will not be based on the number or length of your comments.
 
 ### Weekly reading responses 
 
@@ -140,14 +146,18 @@ thinking prior to the meeting time, each student is required to submit a
 ### Case / Discussion leader
 
 The case / discussion leader is responsible for leading the discussion and
-synthesis session. They will provide feedback on the reading response prompt.
-They will come prepared with a
-brief (less than 15 minute) overview presentation and questions and/or
-discussion points to stimulate a synthetic conversation. **These
-questions must be shared with Prof. Aiello-Lammens by Monday 9 AM.** You
-do not need to post a reading response when you are discussion leader.
+synthesis session.
+They will lead the group in establishing Case Learning Objectives and ensure that the work required to achieve these objectives is partitioned equally among group members.
+During the Case discussion, they will be prepared with a
+brief (approx. 5 minute) overview statement on the case and class reading and they will have a plan to guide the discussion and synthesis session to ensure that each group member has a chance to address at least one of the learning objectives.
 
-### Final research paper
+
+### Peer-review of research paper
+
+You will perform a peer-review of the research paper draft for a fellow student. 
+We will discuss this assignment and process further in class.
+
+### Term research paper
 
 The research paper should be a thorough review of a topic in
 environmental science ***OR*** of the scientific basis for a piece of
@@ -161,11 +171,6 @@ draft of the paper is due on the last day of the semester
 I will read and comment on **a draft of your paper**, and will expect my comments to be addressed in the final version.
 A draft will be due by ***November 17***.
 
-### Exams
-
-There will be *take-home* mid-term and final essay exams. **NOTE:** The
-final exam and the research paper are both due on ***December 20.*** You
-must plan accordingly ahead of time.
 
 Course Policies
 ---------------
@@ -184,6 +189,13 @@ assignments. However, I expect you to respectful and professional, and
 not to be “surfing the internet” during class. All computers, tablets,
 phones, etc. should be closed and put away when not needed for course
 work.
+
+### The Writing Center
+
+The Pace University Writing Center is an excellent resource for students
+wishing to advance their writing skills. You can make an appointment
+by visiting [https://www.pace.edu/dyson/centers/writing-center/plv/graduate-students](https://www.pace.edu/dyson/centers/writing-center/plv/graduate-students)
+and following the instructions there.
 
 ### Academic integrity
 
@@ -234,6 +246,18 @@ To receive accommodation for any disability, students must contact the
 campus Counseling Center (Pace Plaza, 212-346-1526; Westchester,
 914-773-3710).
 
+### Pace University COVID-19 Safety
+
+CDC guidelines and University policy require proper face covering use in all classrooms, conference rooms, hallways, elevators, and other common areas. 
+Face coverings are required even if you are more than 6 feet from another individual in a common indoor area. 
+We must work together to protect others and ourselves from the transmission of COVID-19.  
+Any student entering class without a face covering will be asked to: a) don a face covering or b) go to Security to obtain a face covering if the student does not have one. 
+Students who do neither of these things will be asked to leave class and they will be marked absent for the session. 
+Students are expected to be familiar with the current COVID-19 regulations, which are posted on the [Return to Campus](https://www.pace.edu/return-to-campus) website. 
+See also [up-to-date policies and announcements](https://www.pace.edu/return-to-campus/communications-resources#recent) and more information about [Pace University’s response to COVID-19](https://www.pace.edu/coronavirus).
+
+
+
 Course schedule
 ---------------
 
@@ -244,19 +268,19 @@ and Prof. Aiello-Lammens on a week-to-week basis.
 
 ### Tentative Schedule
 
-|Date  |Topics                                                                  |Readings                                                          |
-|------|------------------------------------------------------------------------|------------------------------------------------------------------|
-|25-Aug|Introduction to Environmental Science and reading scientific literature |Vitousek et al. 1997; Little and Parker 2003; Purugganan and Hewit|
-|1-Sep |Introduction to scientific research - accessing and searching literature|                                                                  |
-|8-Sep |Humans and their environment                                            |                                                |
-|15-Sep|Ecosystems, energy, and the physical environment                        |                                                |
-|22-Sep|No class – Yom Kippur                                                   |                                                                  |
-|29-Sep|Ecosystems, living organisms, and biological resources                  |                                               |
-|6-Oct |Water pollution                                                         |                                               |
-|13-Oct|Risk assessment and toxic persistence                                   |                                              |
-|20-Oct|Evolution                                                               |                                              |
-|27-Oct|Climate change                                                          |                                              |
-|3-Nov |Energy production & Renewable energy                                    |    |
-|10-Nov|Air pollution                                                           |                                            |
-|17-Nov|Land management and food resources                                      |                               |
-|24-Nov|Conservation Planning and Course wrap-up                                |                                      |
+|Date  |Topics                                                                  |
+|------|------------------------------------------------------------------------|
+|25-Aug|Introduction to Environmental Science and reading scientific literature |
+|1-Sep |Introduction to scientific research - accessing and searching literature|
+|8-Sep |Humans and their environment                                            |
+|15-Sep|Ecosystems, energy, and the physical environment                        |
+|22-Sep|Ecosystems, living organisms, and biological resources                  |
+|29-Sep|Water pollution                                                         |
+|6-Oct |Risk assessment and toxic persistence                                   |
+|13-Oct|Evolution                                                               |
+|20-Oct|Climate change                                                          |
+|27-Oct|Energy production                                                       |
+|3-Nov |Renewable energy                                                        |
+|10-Nov|Air pollution                                                           |
+|17-Nov|Land management and food resources                                      |
+|24-Nov|Conservation Planning and Course wrap-up                                |
