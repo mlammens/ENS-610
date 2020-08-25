@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 Syllabus - Combined Course: Environmental Science I and Environmental Science for Policy Makers
 ====================================================================================
 
@@ -121,10 +126,10 @@ Assignments and assessments
 Rubrics will be provided for class assessments.
 
 -   Weekly reading comments - Perusall (10%)
--   Weekly reading response - (20%)
+-   Weekly reading response - (25%)
 -   Case / Discussion leader (10%)
 -   Research paper proposal (5%)
--   Research paper annotated bibliography (10%)
+-   Research paper annotated bibliography (5%)
 -   Draft research paper (10%)
 -   Peer-review of research paper (10%)
 -   Final research paper (25%)
