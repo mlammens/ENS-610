@@ -1,4 +1,9 @@
-# Meeting 1 - Lecture Notes
+---
+output:
+  word_document: default
+  html_document: default
+---
+# Meeting 1 - Class Notes
 
 ## Learning objectives
 
@@ -52,8 +57,8 @@ Most of the processes are related to changes in the interactions of the componen
 ## Vitousek et al. 1997 Presentation and Discussion
 
 * Is this paper an "environmental science paper"? Why/ why not?
-* Could you apply the techniques noted in the other two readings (i.e., the how to read a scientific paper readings) to this paper?
-* What kind of paper is this?
+* What kind of paper is this? Is it describing the results of a novel experimental or observational study?
+* Note differences between Reviews versus Original Research papers (note reviews do not have to deviate from an Introduction - Methods - Results- Discussion (IMRD) approach, but oftent do)
 * This paper is one product of the Sustainable Biosphere Initiative of the Ecological Society of America
 * SBI was an initiative to "define research priorities for ecology in the closing decade of the 20th century" (Lubchenco et al. 1991, *Ecology* 72(2) 371-412.
 * New initiatives from ESA have sprung from SBI, including the [Ecological Visions Project](https://www.esa.org/ecovisions/ev_projects/about_project.php)
@@ -85,8 +90,15 @@ Most of the processes are related to changes in the interactions of the componen
 * As pointed out in the article, most emissions come from the developed nations.
 * Recall that this article was written more than 20 years ago. What may have changed in that time, and how could it impact Earth systems differently?
 
+**Logical fallacies**
+
+* Throughout the semester we must keep an eye out for when ***we*** committ logical fallicies in our arguments and discussions.
+* You should feel free to call me out if I do this (which I probably do, often).
+* Go through fallacies and examples.
+* Which is hardest for you?
+
 ### Concepts and discussion questions
 
-* In 1997, when this was written, the authors stated the **land transformations** represented the *most substantial human alteration of the Earth system*. Based on your current knowledge, do you think this is still the case?
-* In two weeks, we will begin reading Silent Spring by Rachel Carson. In that text, Carson makes the case that the use and mis-use of pesticides was the most substantial human impact on Earth systems. Let's keep an eye on how this perspective may have evolved and changed through time.
+* In 1997, when this was written, the authors stated that **land transformations** represented the *most substantial human alteration of the Earth system*. Based on your current knowledge, do you think this is still the case?
+* In 1962, Rachel Carson published **Silent Spring**, where she makes the case that the use and mis-use of pesticides was the most substantial human impact on Earth systems. Would you still agree with this statement? What does your answer say about your outlook on addressing / dealing with environmental challenges? 
 * Why do you think land transformations are so impactful? **ANS** From text "land transformation interacts strongly with most other components of global environmental change".

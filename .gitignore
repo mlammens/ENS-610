@@ -1,4 +1,5 @@
 *docx
 *~
 .DS_Store
-*.pptx
+.Rproj.user
+*.html
