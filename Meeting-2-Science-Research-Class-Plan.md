@@ -3,6 +3,7 @@ output:
   word_document: default
   html_document: default
 ---
+
 # Meeting 2 - Class Plan and Notes
 
 ## Learning objectives
