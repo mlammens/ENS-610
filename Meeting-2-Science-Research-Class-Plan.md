@@ -1,17 +1,25 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Meeting 2 - Class Plan and Notes
 
 ## Learning objectives
 
 * Identify and review primary literature sources related to major topics in environmental science
-* Understand and pactice tools to manage scientific literature and other sources of information
+* Understand and practice tools to manage scientific literature and other sources of information
 
 ## Schedule
 
 * 5:40 - 6:30 - Informational presentation from University Librarian
-* 6:30 - 7:10 - Introduction to Zotero
-* 7:10 - 8:20 - Practice searching, accessing, and storing scientific literature
+* 6:30 - 6:45 - Trouble shoot Zotero
+* 6:55 - 7:20 - Recap on Vitousek et al.
+* 7:20 - 8:20 - Practice searching, accessing, and storing scientific literature
 
 ## Introduction to Zotero
+
+*NOTE: These notes are covered in the Zotero video on Classes.*
 
 1. Navigate to [zotero.org](zotero.org)
 2. Create a new account (this is free)
@@ -41,7 +49,9 @@
 
 9. Make a bibliography in a MS Word doc
 
-10. Plan for ENS-610-2019 Group
+### Plan for ENS-610-2020 Group
+
+All students need to send me their Zotero user names
 
 ## Following a citation trail
 
