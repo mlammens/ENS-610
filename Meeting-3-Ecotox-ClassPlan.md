@@ -62,3 +62,12 @@ We'll separate into groups and work on our case studies.
 ## Break (7:30 - 7:40)
 
 ## Vitousek updates (7:40 - end of class)
+
+
+<!----
+Instructor notes:
+
+* Need to give more guidance on how to work as a group - my expectation is that they will divy up work during class time and decided on learning objectives. I want to strongly encouage the students to "workshop" the learning objectives. Do the LOs address information related to the cases? 
+* Should give more context to the cases. Perhaps provide a guiding question for the students to consider. 
+
+---->

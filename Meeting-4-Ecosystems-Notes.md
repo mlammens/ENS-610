@@ -1,40 +1,22 @@
-# Meeting 4 - Lecture Notes
+---
+output:
+  word_document: default
+  html_document: default
+---
 
-Our readings for Meeting 4 are:
+# Meeting 4 - Ecosystems, Energy, Cycles and Earth Systems - Class Plan and Lecture Notes
 
-* Carson, Chapters 4 and 5
+## Discussion of Ecotoxicology and Pollution Cases (5:40 - 6:50 PM)
+
+## Break (6:50 - 7:00 PM)
+
+## Brief introduction to ecosystmes - Q&A (7:00 - 7:30 PM)
+
+### Meeting 4 review reading
+
 * Pickett, S. T. A., and M. L. Cadenasso. 2002. The Ecosystem as a Multidimensional Concept: Meaning, Model, and Metaphor. Ecosystems 5:1–10.
-* Arias-Estévez, M., E. López-Periago, E. Martínez-Carballo, J. Simal-Gándara, J.-C. Mejuto, and L. García-Río. 2008. The mobility and degradation of pesticides in soils and the pollution of groundwater resources. Agriculture, Ecosystems & Environment 123:247–260.
-* SKIM THIS ONE: ﻿﻿﻿﻿﻿﻿﻿﻿Taft, M., D. Mauser, and T. Arnold. 2000. Breeding ecology of White-faced Ibis (Pleagadis chihi) in the Upper Klamath Basin, California. Western North American Naturalist 60.﻿
 
-## Reading Response Prompt
-
-Given what you have learned about the ecosystem concept from Pickett and Cadenasso (2002), and the case studies documented in Carson 1962 and Arias-Estevez et al. 2008, why do you think it is important to investigate environmental impacts at the level of an ecosystem? Back up your answer with examples from the reading. What situations can you imagine in which we could ignore the ecosystem context, and instead focus only on individual populations or communities?
-
-## Notes for Lecture
-
-### From Carson 1962
-
-* Emphasize the connections in ecosystems that are facilitated by the water cycle!
-	* Klamath lake system provides an example here. The reclaimed water caused population impacts on the birds of that area
-* Discuss case study of 2,4 D synthesizing spontaneously in holding ponds a rocky mnt arsenal
-* In terms of pesticides traveling up the food chain, discuss clear lake example
-	* Bring in the paper showing a good degreee of recovery of Clear Lake, in terms of species survival
-	* 1/70 ppm, so about 14 ppb
-	* DDD in fatty tissues of grebe as high as 1600 ppm
-	* pp 47-48 provide good illustrative numbers for each trophic level having higher DDD concentrations
-	* Western Grebe do nest at Clear Lake today, but numbers are still lower than historic numbers
-	* Possibly use this to dicuss "shifting baselines" problems in conservation
-
-* Soils - still largely ignored
-* There is appreciation of the complexity of these systems and their importance for life
-* Earthworms - a complicated story
-	* Most earthworms in our region are non-native, and are correlated with low levles of native seedling mortality
-* Complexities - case study shows breakdown of **nitrification** -- important for biogeochemical cycles!
-* Because many synthestic pesticides are very stable, they remain in the soil for long periods of time, and can build up in the soil over several moderate doses
-
-
-### From Pickett and Cadenasso 2002
+## Notes from Pickett and Cadenasso 2002
 
 * Three uses of the ecosystem concept
 	* Meaning - a definition of an ecosystem - "Tansley defined the ecosystem as a biotic community or assemblage and its associated physical environment in a specific place."\
@@ -47,16 +29,31 @@ Given what you have learned about the ecosystem concept from Pickett and Cadenas
 * **Q** The authors here note that Tansley in 1935 encouraged the inclusion of humans and their impacts into ecosystems. How does this compare to how you all learned about ecosystems, or how you perceive ecosystems, or how you think the public perceives ecosystems?
 * Cite section on page 3, start of "Types of Models", beginning with "One common focus of ecosystem models is energy."
 * **Q** How does this relate to biogeochemical cycles?
-
-* In the paper, there is the mention of "ecological economics". This is related closely to the concepts of ecosystem services noted in the lecture slides. 
+* In the paper, there is the mention of "ecological economics". This is related closely to the concepts of ecosystem services. 
 	* **Q** What do you think are some of benefits and challenges of ecosystem services?
-
-* **Q** Considering the "Domain of Model" section, let's define the domain of a model that we would use to investigate the issues associated with the Klamath Lakes system discussed in Carson
-
-* **Q** The authors point out that recent research suggests that "persistent ecosystems often contain negative feedback loops" -- why? Are there feedback loops assocaited with the impacts of introductions of insecticides / pesticieds?
-
-* **Q** What's the difference between equilibirum and non-equilibrium ecosystem models, and what does the choice of using one or the other say about assumptions regarding the consistancy of an ecosystem
-
+* **Q** The authors point out that recent research suggests that "persistent ecosystems often contain negative feedback loops" -- why? 
+* **Q** What's the difference between equilibrium and non-equilibrium ecosystem models, and what does the choice of using one or the other say about assumptions regarding the consistency of an ecosystem
 * **Q** Do we think the use of ecosystem as metaphor is useful? 
+
+
+## Case study discussions and LO work
+
+### Meeting 4 case studies
+
+* Gulf of Mexico Dead Zone - Smith, C. (2017, August 2). New Jersey-Size “Dead Zone” Is Largest Ever in Gulf of Mexico. National Geographic. https://www.nationalgeographic.com/news/2017/08/gulf-mexico-hypoxia-water-quality-dead-zone/
+* CO2 impacts of 2018 California Wildfires - Berwyn, B. (2018, August 23). How Wildfires Can Affect Climate Change (and Vice Versa). InsideClimate News. https://insideclimatenews.org/news/23082018/extreme-wildfires-climate-change-global-warming-air-pollution-fire-management-black-carbon-co2
+
+#### Case study guiding scenarios
+
+* Gulf of Mexico Dead Zone - you are planning to lobby the USDA to request that the enact a series of policies to mitigate the impacts of eutrification in the Gulf of Mexico. What are the key points of your science-based policies?
+
+* CO2 impacts of 2018 California Wildfires - you are asked to weigh-in on the debate as to whether climate change or land management has a greater impact on fire severity in the American West. In actuality, this is a multi-faceted and complex issue. What are the key points you would raise in addressing this debate?
+
+
+### Instructor-established Learning Objectives for Ecosystems - Energy, Cycles, and Earth Systems
+
+* Describe the biogeochemical cycles that are most immediately related to the case study.
+* Identify human perturbations to the biogeochemical cycles related to the case study, and describe how those perturbations contributed to the environmental problem presented
+* Identify and describe the major Earth systems (atmospheric wind currents, ocean currents, etc.) that related to the case study.
 
 
