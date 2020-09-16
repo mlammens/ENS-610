@@ -8,6 +8,11 @@ output:
 
 ## Discussion of Ecotoxicology and Pollution Cases (5:40 - 6:50 PM)
 
+* Review Discussion Leader rubric (5 min)
+* Guiding scenarios / questions -
+    * Microplastics - can we just assume this is a marine problem and do we know anything about what we can do to solve these problems?
+    * PCBs - is this problem restricted to the river? do we need to be concerned about it today, or is it "all cleaned up?"
+
 ## Break (6:50 - 7:00 PM)
 
 ## Brief introduction to ecosystmes - Q&A (7:00 - 7:30 PM)
@@ -57,3 +62,13 @@ output:
 * Identify and describe the major Earth systems (atmospheric wind currents, ocean currents, etc.) that related to the case study.
 
 
+<!---
+Instructor notes:
+
+Small group discussions seemed to go really well, but full class discussion *felt* like it required more facilitation on my part.
+
+But overall, I thought the discussion went well. I like the format where we take 15 minutes in our small groups, then come back to the bigger groups (rather than skipping the small groups).
+
+The ecosystem introduction was a bit ad libbed, and went off in a few different directions, but I hope interesting to the students?
+
+---->
