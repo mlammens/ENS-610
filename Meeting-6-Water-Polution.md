@@ -1,25 +1,37 @@
-# Meeting 6 - Water Pollution - Reading and Lecture Notes
+---
+output:
+  word_document: default
+  html_document: default
+---
 
-## Readings
+# Meeting 6 - Water Pollution - Class Plan and Lecture Notes
 
-* Carson, Chs 9-10
-* Hites, R. A., & Holsen, T. M. (2019). Temporal trends of PCBs and DDTs in Great Lakes fish compared to those in air. Science of The Total Environment, 646, 1413–1418. https://doi.org/10.1016/j.scitotenv.2018.07.351
-* Diaz, R. J., & Rosenberg, R. (2008). Spreading Dead Zones and Consequences for Marine Ecosystems. Science, 321(5891), 926–929. 
+## Brief paper discussion of Ripple and Beschta (5:45 - 6:00 PM)
 
-## Reading Response Prompt
+* How many of you had heard this story before? 
+* Fifteen years on, still recovering. This is almost surely still true to this day.
+* Yellowstone - a three trophic level system
+    * One could argue it's a bit more complicated than this
+* There's a strong analogy between Yellowstone's elk and the northeast's deer problems. No wolf or other top predators.
+* On page 206, the authors state "Two potential bottom-up factors ..." -- let's discuss bottom up versus top down ecosystem control. 
+* Increases in plant growth are patchy, associated with perceived risk of predation.
 
-Which concerns you more, water pollution by pesticides or water pollution by fertilizers? Justify your answer with references to our readings.
+## Discussion of Ecosystems - Biodiversity and Biological Resources (6:00 - 7:15 PM)
 
-## Reading Notes
+* Small groups regroup! (6:00 - 6:15 PM)
+* Full class discussion (6:15 - 7:15 PM)
 
-### From Diaz and Rosenberg
+### Instructor-established LOs for this discussion
 
-* "The most serious threat from eutrophication is the unseen decrease in dissolved oxygen levels in bottom waters, created as planktonic algea die and add to the flow of organic matter to the seabed to fuel microbial respiration."
-* Observed declines in DO have lagged about 10 years behind increased use of fertilizers.
-* Some systems, e.g., the Black Sea, are experiencing multiple stressors - including overfishing, invasive species, etc.
-* Perhaps go over / discuss stratification of aquatic systems
-* In ecosystem responses, there is a discussion about changes to a species habitat due to hypoxia. This is interesting when you think about our discussion last week on niches.
-* Note that hypoxia can effect biogeochemical cycling, such as the effects on nitrogen cycles noted in ecosystem response section
-* The extent of ecosystem degredation may be linked to the duration of exposure and DO concentration.
-* Might be worth discussing hysteresis - "the dependence of the state of a system on its history"
+* Identify key principles of population ecology that are important in understanding your case study.
+* Identify key principles of community ecology that are important in understanding your case study.
+* Describe the ways that *biodiversity* is impacted in your case study, both directly and indirectly.
 
+## Short break (7:15 - 7:20 PM)
+
+## Case study discussions and LO work (7:20 - 8:30)
+
+### Instructor-established Learning Objectives for Water Pollution
+
+* Describe the eight major categories of water pollution (see Water Pollution slide deck) in general, and identify which categories each of the case studies relates to.
+* Contrast the difference between point source and nonpoint source pollution, and identify which is a more appropriate classification for each of the case studies.
