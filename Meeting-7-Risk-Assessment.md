@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Meeting 7 - Toxic Persistance and Risk Assessment
+# Meeting 7 - Toxic Persistence and Risk Assessment
 
 ## Readings
 
