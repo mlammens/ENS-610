@@ -3,7 +3,7 @@
 ## Start with an inclass activity
 
 * Break up into groups of 2-3 students
-* Design a citizen science participatory research project to study the impacts of dieasal exhaust along an urban to rural gradient in our region. 
+* Design a citizen science participatory research project to study the impacts of diesel exhaust along an urban to rural gradient in our region. 
 
 
 ## Readings
