@@ -1,4 +1,10 @@
-# Meeting 11 - Air Pollution - Class and Reading Notes
+# Meeting 13 - Air Pollution - Class and Reading Notes
+
+## Start with an inclass activity
+
+* Break up into groups of 2-3 students
+* Design a citizen science participatory research project to study the impacts of dieasal exhaust along an urban to rural gradient in our region. 
+
 
 ## Readings
 
@@ -10,3 +16,7 @@
 ### Lovett et al.
 
 * They make an important point that because so many of the pollutants that are considered "air pollutants" become deposited on the land, then leech into the water, they also lead to water pollution
+
+* I think it's worth discussion the "Certainty of Information" section in a bit more detail as a group. Why the emphasis on experimental / gradient studies?
+
+* Review Figure 1. Let's make sure we understand the "Green Line" / "Red Line" approach to dealing with novel (or current) toxins.
