@@ -77,7 +77,7 @@ Most of the processes are related to changes in the interactions of the componen
 
 **Percent change slide**
 
-* What information is this slide conveying? 
+* What information is this figure conveying? 
 * Considering the impacts human disturbances have on Earth systems, why might this image not be has helpful as it first appears? **ANS** We don't know if a 50% change in land is more or less impactful than a 25% change in CO2 or >60% change in Marine fisheries.
 * We are looking at these changes at the global scale. How do you think the relate to changes at the local scale?
 
@@ -92,7 +92,7 @@ Most of the processes are related to changes in the interactions of the componen
 
 **Logical fallacies**
 
-* Throughout the semester we must keep an eye out for when ***we*** committ logical fallicies in our arguments and discussions.
+* Throughout the semester we must keep an eye out for when ***we*** commit logical fallacies in our arguments and discussions.
 * You should feel free to call me out if I do this (which I probably do, often).
 * Go through fallacies and examples.
 * Which is hardest for you?
