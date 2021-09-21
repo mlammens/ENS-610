@@ -4,9 +4,15 @@ output:
   html_document: default
 ---
 
-# Meeting 3 - Humans and their environment - Ecotoxicology - Class Plan and Lecture Notes
+# Meeting 2 - Humans and their environment - Ecotoxicology - Class Plan and Lecture Notes
 
-## Ecotoxicology overview and Q&A (5:40 - 6:10)
+## Learning objectives for session
+
+* *Summarize the problems associated with chemicals that exhibit persistence, bioaccumulation, and biological magnification in the environment*
+* *Describe the data that is needed to determine if a chemical is harmful to humans? To specific species? To natural ecosystems? What data / studies exist related examples we discussed in class?*
+* *Distinguish between acute and chronic toxicities, and identify the exposure duration(s) and mechanism(s) that are most relevant to various scenarios (e.g., PCBs in the Hudson vs. Post-9/11 carcinogens).*
+
+## Ecotoxicology overview and Q&A (5:40 - 6:50)
 
 ### A few points inspired by Sabarwal et al.
 
@@ -33,41 +39,18 @@ output:
         * $RR = \frac{D_E/N_E}{D_N/N_N}$
 * Review epigenetics
 
-## Case-study setup (6:10 - 6:30)
+## Hudson River PCB Follow-Up questions (7:00 - 8:00)
 
-* Go over the general plan
-    * Everyone reads the "cases"
-    * Breakout into sub-groups to focus on the cases
-    * In your groups you focus on addressing how the **review reading** connects to the case
-        * How do the major concepts presented by Sabarwal et al. (2018) relate to your case?
-    * Determine how your case addresses the **Instructor-established Learning Objectives**
-        * **LOs for Ecotoxicology**
-            * *Summarize the problems associated with chemicals that exhibit persistence, bioaccumulation, and biological magnification in the environment*
-            * *Describe the data that is needed to determine if a chemical is harmful to humans? To specific species? To natural ecosystems? What data / studies exist related to your case?*
-            * *Distinguish between acute and chronic toxicities, and identify the exposure duration(s) and mechanism(s) that are most relevant to your case.*
-    * After addressing the established LOs, identify new LOs (at least equal in number to the number of group members)
-        * These LOs can be specific to your case
-        * Use the verbs of learning objectives - [https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf](https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf)
+* Individually add outstanding / follow-up questions to Hudson River PCB Follow-up doc
+* Discuss questions in small groups
+* Work on answering questions using any resources available (I recommend Google Scholar)
 
-* **Additional logistics**
-    * How should we work?
-        * Classes - Discussion board?
-        * Google doc?
-        * Slack?
+## Learning Objective Reflection (8:00 - 8:30)
 
-## Case-study group work (6:30 - 7:30)
-
-We'll separate into groups and work on our case studies.
-
-## Break (7:30 - 7:40)
-
-## Vitousek updates (7:40 - end of class)
-
+* Review our learning objectives for this session
+* Consider how we have achieved them and what is left to learn (one each)
 
 <!----
 Instructor notes:
-
-* Need to give more guidance on how to work as a group - my expectation is that they will divy up work during class time and decided on learning objectives. I want to strongly encouage the students to "workshop" the learning objectives. Do the LOs address information related to the cases? 
-* Should give more context to the cases. Perhaps provide a guiding question for the students to consider. 
 
 ---->
