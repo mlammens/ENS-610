@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Meeting 2 - Class Plan and Notes
+# Meeting 3 - Class Plan and Notes
 
 ## Learning objectives
 
@@ -14,9 +14,9 @@ output:
 ## Schedule
 
 * 5:40 - 6:30 - Informational presentation from University Librarian
-* 6:30 - 6:45 - Trouble shoot Zotero
-* 6:55 - 7:20 - Recap on Vitousek et al.
-* 7:20 - 8:20 - Practice searching, accessing, and storing scientific literature
+* 6:30 - 6:55 - Trouble shoot Zotero
+* 7:05 - 7:20 - Recap Ecotoxicology materials from Week 2
+* 7:20 - 8:30 - Practice searching, accessing, and storing scientific literature - answering Hudson River PCB class follow-up questions 
 
 ## Introduction to Zotero
 
@@ -56,9 +56,15 @@ All students need to send me their Zotero user names
 
 ## Following a citation trail
 
-  - Look up the title of the Vitousek et al. 1997 paper in Google Scholar, note that you can select the 'Cited by xxxx', this brings you to the papers that have cited this one as part of thier works cited
+  - Look at the references in the 'PCB Contamination of the Hudson River Ecosystem' report from Week 2.
+  - Choose one of the **peer reviewed** referenced articles; look it up by title in Google Scholar
   - Click on 'Search within citing articles'
-  - Each group, choose a topic, and search for papers that are related to your chosen topic within those citing Vitousek
-  - Your groups goal is to find at least five articles that follow the IMRD format (feel free to earmark anything else that looks interesting)
-  - Prepare a synthesis of what you found, as a way of giving us an update on these topics since 1997
+
+## Answering Hudson River PCB class follow-up questions
+
+- Break up into five groups
+- Each group, choose one of the questions, and search for papers that will help answer that question
+- Your groups goal is to find at least five articles related to the question. Of those five, at least three should follow the IMRD format (feel free to earmark anything else that looks interesting)
+- Prepare a synthesis of what you found, as a way of answering the question
+- Your synthesis should include a **formatted** references cited section
 
