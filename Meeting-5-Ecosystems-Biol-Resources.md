@@ -6,26 +6,32 @@ output:
 
 # Meeting 5 - Ecosystems, Biodiversity, and Biological Resources - Class Plan and Lecture Notes
 
-## Discussion of Ecosystems - Energy, Cycles, and Earth Systems Case Studies (5:40 - 6:40)
+## Learning Objectives for Ecosystems - Biodiversity and Biological Resources
 
-* Small groups regroup! (5:45 - 6:00)
-* Full class discussion (6:00 - 6:40)
+* Identify key principles of population ecology that are important in understanding an environmental issue.
+* Identify key principles of community ecology that are important in understanding an environmental issue.
+* Describe the ways that *biodiversity* is impacted in a given environmental issue, both directly and indirectly.
 
-## Short break (6:40 - 6:45)
+## Logistics Updates (5:40 to 5:50)
 
-## Ecosystems - Biodiversity and Biological Resources - Lecture (6:45 - 7:30)
+* Review paper assignments posted
 
-## Case study discussions and LO work (7:30 - 8:30)
+## Communities and Food Webs (5:50 to 6:30)
 
-### Instructor-established Learning Objectives for Ecosystems - Biodiversity and Biological Resources
+* In assigned groups, make two food web diagrams for the Yellowstone National Park system - one without wolves and one with wolves.
+    * Include **directional** arrows that indicate the direction of the flow of energy
+    * Use *something* to indicate the strength of the interaction between components (i.e., species) in your food web. Some examples are weight of the line for the arrow, or collor of the arrow, etc...
 
-* Identify key principles of population ecology that are important in understanding your case study.
-* Identify key principles of community ecology that are important in understanding your case study.
-* Describe the ways that *biodiversity* is impacted in your case study, both directly and indirectly.
+## Discussion of the readings (6:30 - 7:00)
 
+* Identify *at least* one question or comment you would like to make / address regarding the reading. It could be identical, or related, to a Perusall comment, or something completely new.
+* Identify one way that both of the readings you did were connected. That is, one theme, idea, or principle that was common to both readings.
+* Put these comments or questions up on the associated pages of the Jamboard
 
+## LOs and your environmental issue (7:00 - 7:30)
 
-
+In your groups, address each of the three LOs with respect to your second reading (either pesticide effects or shifting ranges).
+Do this in the shared Google Doc.
 
 ## Class and Lecture Notes
 
@@ -34,7 +40,7 @@ output:
 * Ripple, W. J., & Beschta, R. L. (2012). Trophic cascades in Yellowstone: The first 15years after wolf reintroduction. Biological Conservation, 145(1), 205–213. https://doi.org/10.1016/j.biocon.2011.11.005
 
 
-## Ideas and Notes
+### Ideas and Notes
 
 ### Ripple and Beschta
 
