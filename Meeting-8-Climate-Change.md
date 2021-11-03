@@ -8,7 +8,9 @@ output:
 
 ## Learning Objectives
 
-
+* Become familiar with the evidence for anthropogenic climate change
+* Identify links between increases in atmospheric greenhouse gasses and climate change
+* Identify ways that population growth and human development have contributed to factors leading to climate change
 
 ## Readings
 
