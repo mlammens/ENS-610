@@ -1,15 +1,37 @@
-# Meeting 13 - Air Pollution - Class and Reading Notes
+---
+output:
+  word_document: default
+  html_document: default
+---
 
-## Start with an inclass activity
+# Meeting 9 - Air Pollution - Class and Reading Notes
+
+## Learning Objectives
+
+* Identify different types of air pollution and describe their global effects
+* 
+
+## In class activity
 
 * Break up into groups of 2-3 students
+* Compare and contrast what you learned regarding air pollution by reading Lovett et al. vs Vásquez et al.
+    * How do the foci of these papers differ?
+    * How are they similar?
+    * What "kinds" of papers are these?
 * Design a citizen science participatory research project to study the impacts of diesel exhaust along an urban to rural gradient in our region. 
+    * Things to think about while designing your project:
+        - Is your data collection prone to biases?
+        - What are your measurements?
+        - What kinds of data are you collecting?
+        - What key environmental processes do you need information on?
+        - Clearly identify what ideas / concepts you are getting from the two different papers.
 
 
 ## Readings
 
-* Dryden, R., Morgan, M. G., Bostrom, A., & Bruine de Bruin, W. (2018). Public Perceptions of How Long Air Pollution and Carbon Dioxide Remain in the Atmosphere. Risk Analysis: An International Journal, 38(3), 525–534. https://doi.org/10.1111/risa.12856
 * Lovett, G. M., Tear, T. H., Evers, D. C., Findlay, S. E. G., Cosby, B. J., Dunscomb, J. K., … Weathers, K. C. (2009). Effects of air pollution on ecosystems and biological diversity in the eastern United States. Annals of the New York Academy of Sciences, 1162, 99–135. https://doi.org/10.1111/j.1749-6632.2009.04153.x
+* Vásquez, V. B., Minkler, M., & Shepard, P. (2006). Promoting environmental health policy through community based participatory research: A case study from Harlem, New York. Journal of Urban Health, 83(1), 101–110. https://doi.org/10.1007/s11524-005-9010-9
+
 
 ## Reading notes
 
