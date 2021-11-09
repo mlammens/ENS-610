@@ -9,7 +9,8 @@ output:
 ## Learning Objectives
 
 * Identify different types of air pollution and describe their global effects
-* 
+* Be able to describe the processes associated with acid deposition and its environmental effects
+* Identify ways of reducing air pollution and discuss socio-economic challenges associated with air pollution reduction
 
 ## In class activity
 
